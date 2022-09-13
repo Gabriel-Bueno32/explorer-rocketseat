@@ -1,5 +1,7 @@
 <h1 align="center">Programa Rocketseat Explorer</h1>
 
+##Sobre:
+
 **O Explorer da Rocketseat tem como objetivo ajudar o dev a conseguir seu primeiro emprego, ensinando habilidades técnicas e comportamentais.**
 ---
 <div align="center">
