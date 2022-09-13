@@ -1,10 +1,9 @@
 <h1 align="center">Rocketseat Explorer Program</h1>
 
-## About:
-**The Rocketseat Explorer aims to help dev to get into their first job by teaching technical and behavioral skills.**
+## About: **The Rocketseat Explorer aims to help dev to get into their first job by teaching technical and behavioral skills.**
 ---
 <div align="center">
-<h3> 📦 Repositories / 🚀 Deploys </h3>
+### 📦 Repositories / 🚀 Deploys
   
 ### <a href="https://github.com/Gabriel-Bueno32/explorer-rocketseat/tree/main/Stage-02"> Stage 02 🏷 </a>&nbsp;
 
