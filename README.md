@@ -3,7 +3,7 @@
 ### **The Rocketseat Explorer aims to help dev to get into their first job by teaching technical and behavioral skills.**
 ---
 <div align="center">
-  <h3>📦 Repositories / 🚀 Deploys</h3>
+<h3>📦 Repositories / 🚀 Deploys</h3>
   
 ### <a href="https://github.com/Gabriel-Bueno32/explorer-rocketseat/tree/main/Stage-02"> Stage 02 🏷 </a>
 
