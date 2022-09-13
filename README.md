@@ -1,8 +1,6 @@
 <h1 align="center">Programa Rocketseat Explorer</h1>
 
-##Sobre:
-
-**O Explorer da Rocketseat tem como objetivo ajudar o dev a conseguir seu primeiro emprego, ensinando habilidades técnicas e comportamentais.**
+<strong>O Explorer da Rocketseat tem como objetivo ajudar o dev a conseguir seu primeiro emprego, ensinando habilidades técnicas e comportamentais.</strong>
 ---
 <div align="center">
   <h3>📦 Repositório / 🚀 Deploys</h3>
