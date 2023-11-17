@@ -161,10 +161,6 @@ footer p {
 @media (min-width: 1200px) {
     #app {
         display: grid;
-    }
-
-    main {
-        display: grid;
         grid-template-areas: 
         "header header header"
         "main main sidebar"
@@ -177,9 +173,11 @@ footer p {
         padding-right: 11.2rem;
 
         margin-bottom: 4.4rem;
+
+        grid-area: header;
     }
 
-    .main {
+    main {
         grid-area: main;
         max-width: 82rem;
         margin: 0 auto;
@@ -202,11 +200,18 @@ footer p {
 
     .container2 {
         grid-area: sidebar;
-        max-height: 60rem;
+        max-height: 80rem;
         max-width: 40rem;
         margin: 0;
     }
 
+    .article img {
+        max-width: 17rem;
+    }
+
+    footer {
+        grid-area: footer;
+    }
 }
 
 .logo:hover {
